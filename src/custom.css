@@ -1,0 +1,30 @@
+.logo {
+  padding: 0px; }
+
+.navbar {
+  background-color: #017aa7; }
+
+.nav_innerdiv {
+  margin: 10px; }
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+  padding: 13px 20px 10px 15px; }
+
+.navbar-default .navbar-nav > li > a.join {
+  color: #23a1d6;
+  padding: 5px; }
+
+.navbar-default .navbar-right > li {
+  padding: 10px 5px 5px 0px; }
+
+.btn .btn-success {
+  background-color: #4fb558; }
+
+.active {
+  background-color: #055f82;
+  color: #555;
+  border-radius: 5px; }
+
+.loginbtn {
+  padding: 5px; }
