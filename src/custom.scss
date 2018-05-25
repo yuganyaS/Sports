@@ -6,7 +6,11 @@ $SubheaderActiveBgColor: #777;
 $GreenBtn:#4fb558;
 $SublinkColor: #23a1d6;
 $FooterBgColor: #191919;
-
+$UpdateBgColor: #143642;
+$UpdateBtnColor: #ff6b35;
+$ContestBgColor:#4d4d4d;
+//fontStyles
+$Title : 20px;
 // Header Css
 .logo{
   padding:0px;
@@ -82,4 +86,57 @@ $FooterBgColor: #191919;
       text-decoration: none;
     }
   }
+}
+//Update Css
+.update_section{
+  background-color: $UpdateBgColor;
+  flex:1
+}
+.section{
+  padding:10px;
+  padding-right: 0px;
+}
+.innersection{
+  margin:10px;
+  background-color: $DefaultTheme;
+  color:$HeaderLinkColor;
+  border:none;
+}
+.update_btn{
+  background-color: $UpdateBtnColor;
+  padding:10px 10px 8px 8px;
+}
+.btn{
+  font-size: 20px;
+  &:hover{
+    color: $HeaderLinkColor;
+  }
+}
+.btn_style{
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+.contest_section{
+  background-color: $ContestBgColor;
+  margin:10px;
+  color:$HeaderLinkColor;
+  h6{
+    color:$UpdateBtnColor;
+    padding:5px;
+    padding-top:0px;
+    line-height: 1px;
+  }
+  p{
+    padding: 5px;
+    font-size: 12px;
+    line-height: 1px;
+    span{
+      float:right;
+    }
+  }
+}
+.plaintext{
+  font-size: 16px;
 }

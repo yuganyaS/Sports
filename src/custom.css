@@ -68,3 +68,51 @@
   .footerlinks li a {
     color: #8f8f8f;
     text-decoration: none; }
+
+.update_section {
+  background-color: #143642;
+  flex: 1; }
+
+.section {
+  padding: 10px;
+  padding-right: 0px; }
+
+.innersection {
+  margin: 10px;
+  background-color: #017aa7;
+  color: #ffffff;
+  border: none; }
+
+.update_btn {
+  background-color: #ff6b35;
+  padding: 10px 10px 8px 8px; }
+
+.btn {
+  font-size: 20px; }
+  .btn:hover {
+    color: #ffffff; }
+
+.btn_style {
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  align-items: center; }
+
+.contest_section {
+  background-color: #4d4d4d;
+  margin: 10px;
+  color: #ffffff; }
+  .contest_section h6 {
+    color: #ff6b35;
+    padding: 5px;
+    padding-top: 0px;
+    line-height: 1px; }
+  .contest_section p {
+    padding: 5px;
+    font-size: 12px;
+    line-height: 1px; }
+    .contest_section p span {
+      float: right; }
+
+.plaintext {
+  font-size: 16px; }
