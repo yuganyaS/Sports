@@ -1,7 +1,8 @@
 import React,{Component} from 'react';
 import {BrowserRouter as Router,NavLink,Link} from 'react-router-dom';
 import PropTypes from 'prop-types';
-import logoicon from '../Gdfslogo.png';
+import logoicon from '../dfs.png';
+import Subheader from './Subheader';
 // import cn from 'classnames';
 // import {Nav,Navbar} from 'react-bootstrap';
 
@@ -17,13 +18,13 @@ class Header extends Component {
               <div className="navbar-header">
                 <Link to="/" className="navbar-brand logo"><img src={logoicon} width="150"  alt="Global Dfs" /></Link>
               </div>
-              <ul className="nav navbar-nav">
+              <ul className="nav navbar-nav" id="headerlinks">
                 <li><Link to="/">Sports</Link></li>
                 <li><Link to="">In-Play</Link></li>
                 <li><Link to="">Casino</Link></li>
                 <li><Link to="">Poker</Link></li>
                 <li><Link to="">Bingo</Link></li>
-                <li><NavLink to="/" activeClassName="active">DFS</NavLink></li>
+                <li><NavLink to="/" activeClassName="headerlinkactive">DFS</NavLink></li>
               </ul>
               <ul className="nav navbar-nav navbar-right">
                 <li><Link to="/" className="join">join now</Link></li>
@@ -33,6 +34,7 @@ class Header extends Component {
               </ul>
             </div>
           </nav>
+          <Subheader />
         </header>
       </Router>
     )

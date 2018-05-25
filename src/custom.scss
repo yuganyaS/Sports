@@ -1,21 +1,35 @@
 $DefaultTheme: #017aa7;
 $HeaderLinkColor: #ffffff;
 $HeaderActiveBgColor: #055f82;
+$SubheaderBgColor: #4e4e4e;
+$SubheaderActiveBgColor: #777;
 $GreenBtn:#4fb558;
 $SublinkColor: #23a1d6;
+$FooterBgColor: #191919;
 
+// Header Css
 .logo{
   padding:0px;
 }
 .navbar{
   background-color: $DefaultTheme;
+  margin: 0px;
+  border: none;
+  border-radius: 0px;
+}
+.subheader_section{
+  background-color:$SubheaderBgColor;
 }
 .nav_innerdiv{
     margin:10px;
 }
+.navbar-nav li{
+  padding:10px;
+}
 .navbar-default .navbar-nav>li>a{
   color: $HeaderLinkColor ;
-  padding: 13px 20px 10px 15px;
+  padding-top: 5px;
+  padding-bottom:5px;
 }
 .navbar-default .navbar-nav>li>a.join{
   color:$SublinkColor;
@@ -24,14 +38,48 @@ $SublinkColor: #23a1d6;
 .navbar-default .navbar-right>li{
   padding: 10px 5px 5px 0px;
 }
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  color: $HeaderLinkColor;
+}
+#headerlinks>li>a:focus,#headerlinks>li>a:hover{
+  background-color: $HeaderActiveBgColor;
+  border-radius: 5px;
+}
+.subheaderlinks>li:focus, .subheaderlinks>li:hover{
+  background-color: $SubheaderActiveBgColor;
+}
 .btn .btn-success{
   background-color: $GreenBtn;
 }
-.active{
+.headerlinkactive{
   background-color: $HeaderActiveBgColor;
   color: #555;
   border-radius: 5px;
 }
+.subheaderlinkactive{
+  background-color: $SubheaderActiveBgColor;
+}
 .loginbtn{
   padding:5px;
+}
+//Footer Css
+.footer_section{
+  background-color: $FooterBgColor;
+  flex:1;
+  flex-direction: column;
+  align-items: center;
+  padding:10px;
+  justify-content: center;
+  display: flex;
+}
+.footerlinks {
+  li{
+    float:left;
+    list-style-type:none;
+    padding:10px;
+    a{
+      color:#8f8f8f;
+      text-decoration: none;
+    }
+  }
 }
