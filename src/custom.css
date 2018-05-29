@@ -7,7 +7,7 @@
   border: none;
   border-radius: 0px; }
 
-.subheader_section {
+.subheader_section, .Main_content_section {
   background-color: #4e4e4e; }
 
 .nav_innerdiv {
@@ -116,3 +116,66 @@
 
 .plaintext {
   font-size: 16px; }
+
+.addsection h5 {
+  color: #ffffff; }
+  .addsection h5 span {
+    font-size: 20px; }
+
+.contestinfo {
+  background-color: #ffffff;
+  flex: 1; }
+
+.info {
+  background-color: #ffffff; }
+  .info .borderradius_left {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px; }
+  .info .borderradius_right {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px; }
+  .info .tabs {
+    padding: 6px;
+    text-align: left;
+    border-left: 1px solid #ddd;
+    border-top: 1px solid #ddd; }
+  .info .tabs:hover {
+    background-color: #ffffff;
+    border-bottom: 2px solid #ff6b35;
+    padding-bottom: 4px;
+    cursor: pointer; }
+
+.subtitle {
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 1em; }
+
+.tabs {
+  background-color: #eee;
+  padding: 10px;
+  width: 10%;
+  text-align: center;
+  border-right: 1px solid #ddd; }
+  .tabs:hover {
+    background-color: #ffffff;
+    border-bottom: 2px solid #ff6b35;
+    padding-bottom: 8px;
+    cursor: pointer; }
+  .tabs .sporticon {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 5px; }
+
+.tabactive {
+  background-color: #ffffff;
+  border-bottom: 2px solid #ff6b35;
+  padding-bottom: 4px;
+  cursor: pointer; }
+
+.maintext {
+  font-size: 12px;
+  font-weight: bold; }
+
+.subtext {
+  font-size: 10px; }

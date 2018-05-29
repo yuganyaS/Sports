@@ -1,0 +1,2258 @@
+{"Gamelistdata":[{
+    "name": "Featured",
+    "iconname": "featured",
+    "data":{
+      "type":"League",
+      "typedata":[
+        {
+          "name":"EPL",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Serie A",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Bundesliga",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"La Liga",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Ligue 1",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Bundesliga",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Bundesliga",
+          "slates": {
+            "size":5,
+            "GameSlates":{
+              "size": 10,
+              "time":"12.00pm",
+              "date":"12/16"
+            },
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Bundesliga",
+          "slates": {
+            "size":5,
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        },
+        {
+          "name":"Bundesliga",
+          "slates": {
+            "size":5,
+            "contest":{
+              "name":"$10 Million Football EPL Cup finals",
+              "Fee": "10500",
+              "currency":"$",
+              "Prizes": "10000000",
+              "Entries": "518956/100k",
+              "Startdate":"07/24",
+              "Starttime":"12.00pm",
+              "size":"3+",
+              "modifiers":"GPPs"
+            }
+          }
+        }
+      ]
+    }
+  },{
+      "name": "Football",
+      "iconname": "football",
+      "data":{
+        "type":"League",
+        "typedata":[
+          {
+            "name":"EPL",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Serie A",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Bundesliga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"La Liga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Ligue 1",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Bundesliga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Bundesliga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Bundesliga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Bundesliga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          },
+          {
+            "name":"Bundesliga",
+            "slates": {
+              "size":5,
+              "GameSlates":{
+                "size": 10,
+                "time":"12.00pm",
+                "date":"12/16"
+              },
+              "contest":{
+                "name":"$10 Million Football EPL Cup finals",
+                "Fee": "10500",
+                "currency":"$",
+                "Prizes": "10000000",
+                "Entries": "518956/100k",
+                "Startdate":"07/24",
+                "Starttime":"12.00pm",
+                "size":"3+",
+                "modifiers":"GPPs"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+        "name": "Golf",
+        "iconname": "golf",
+        "data":{
+          "type":"League",
+          "typedata":[
+            {
+              "name":"EPL",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Serie A",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"La Liga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Ligue 1",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tennis",
+        "iconname": "tennis",
+        "data":{
+          "type":"League",
+          "typedata":[
+              {
+                "name":"EPL",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Serie A",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"La Liga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Ligue 1",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              }
+            ]
+        }
+      },
+      {
+        "name": "Cricket",
+        "iconname": "tennis",
+        "data":{
+          "type":"League",
+          "typedata":[
+            {
+              "name":"EPL",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Serie A",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"La Liga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Ligue 1",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            },
+            {
+              "name":"Bundesliga",
+              "slates": {
+                "size":5,
+                "GameSlates":{
+                  "size": 10,
+                  "time":"12.00pm",
+                  "date":"12/16"
+                },
+                "contest":{
+                  "name":"$10 Million Football EPL Cup finals",
+                  "Fee": "10500",
+                  "currency":"$",
+                  "Prizes": "10000000",
+                  "Entries": "518956/100k",
+                  "Startdate":"07/24",
+                  "Starttime":"12.00pm",
+                  "size":"3+",
+                  "modifiers":"GPPs"
+                }
+              }
+            }
+          ]
+          }
+        },
+        {
+          "name": "Racing",
+          "iconname": "tennis",
+          "data":{
+            "type":"League",
+            "typedata":[
+              {
+                "name":"EPL",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Serie A",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"La Liga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Ligue 1",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              }
+            ]
+           }
+        },
+        {
+          "name": "Rugby",
+          "iconname": "tennis",
+          "data":{
+            "type":"League",
+            "typedata":[
+              {
+                "name":"EPL",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Serie A",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"La Liga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Ligue 1",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              }
+            ]
+           }
+        },
+        {
+          "name": "Rugby",
+          "iconname": "tennis",
+          "data":{
+            "type":"League",
+            "typedata":[
+              {
+                "name":"EPL",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Serie A",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"La Liga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Ligue 1",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              },
+              {
+                "name":"Bundesliga",
+                "slates": {
+                  "size":5,
+                  "GameSlates":{
+                    "size": 10,
+                    "time":"12.00pm",
+                    "date":"12/16"
+                  },
+                  "contest":{
+                    "name":"$10 Million Football EPL Cup finals",
+                    "Fee": "10500",
+                    "currency":"$",
+                    "Prizes": "10000000",
+                    "Entries": "518956/100k",
+                    "Startdate":"07/24",
+                    "Starttime":"12.00pm",
+                    "size":"3+",
+                    "modifiers":"GPPs"
+                  }
+                }
+              }
+            ]
+            }
+         },
+         {
+            "name": "Rugby",
+            "iconname": "tennis",
+            "data":{
+              "type":"League",
+              "typedata":[
+                {
+                  "name":"EPL",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Serie A",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"La Liga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Ligue 1",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                }
+              ]
+              }
+          },
+          {
+            "name": "More",
+            "iconname": "fa fa-chevron-circle-right",
+            "data":{
+              "type":"League",
+              "typedata":[
+                {
+                  "name":"EPL",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Serie A",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"La Liga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Ligue 1",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                },
+                {
+                  "name":"Bundesliga",
+                  "slates": {
+                    "size":5,
+                    "GameSlates":{
+                      "size": 10,
+                      "time":"12.00pm",
+                      "date":"12/16"
+                    },
+                    "contest":{
+                      "name":"$10 Million Football EPL Cup finals",
+                      "Fee": "10500",
+                      "currency":"$",
+                      "Prizes": "10000000",
+                      "Entries": "518956/100k",
+                      "Startdate":"07/24",
+                      "Starttime":"12.00pm",
+                      "size":"3+",
+                      "modifiers":"GPPs"
+                    }
+                  }
+                }
+              ]
+              }
+           }]
+}

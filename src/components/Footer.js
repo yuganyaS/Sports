@@ -11,7 +11,7 @@ class Footer extends Component {
       <footer>
         <Router>
           <div className="footer_section">
-            <img src={logo} width="250" />
+            <img src={logo} width="250" alt="Globaldfs"/>
             <div>
               <ul className="footerlinks">
                 <li><Link to="">Help</Link></li>
@@ -23,9 +23,9 @@ class Footer extends Component {
             </div>
             <div>
               <ul className="footerlinks">
-                <li><img src={gamble} width="200" /></li>
-                <li><img src={thawte} width="200" /></li>
-                <li><img src={adult} width="50" /></li>
+                <li><img src={gamble} width="200" alt="gamble"/></li>
+                <li><img src={thawte} width="200" alt="thawte"/></li>
+                <li><img src={adult} width="50" alt="adult"/></li>
               </ul>
             </div>
           </div>

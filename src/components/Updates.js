@@ -26,7 +26,7 @@ class Updates extends Component{
               </div>
               <div className="col-md-4">
                 <div className="btn_style">
-                  <button className="btn btn-warning update_btn" type="button">Build a Lineup</button>
+                  <button className="btn update_btn" type="button">Build a Lineup</button>
                 </div>
               </div>
             </div>
